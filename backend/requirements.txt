@@ -1,0 +1,1 @@
+pip install fastapi uvicorn groq python-dotenv requests
