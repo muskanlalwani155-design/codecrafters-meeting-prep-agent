@@ -21,6 +21,7 @@ Unlike standard chatbots, this agent utilizes a custom **Smart Vector Routing** 
 ## Tech Stack
 
 *   **Backend Framework:** FastAPI (Python)
+*   **Frontned** React, Html, CSS
 *   **LLM Engine:** Groq API (Dynamically selects the best available Llama-3 model)
 *   **Vector/Memory Store:** Hindsight Helper (Custom context retention and retrieval module)
 *   **CORS & Middleware:** Integrated for seamless frontend-backend communication.
