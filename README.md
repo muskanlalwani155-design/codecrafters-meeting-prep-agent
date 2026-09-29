@@ -1,6 +1,6 @@
 # Executive Meeting Prep Agent
 
-**Built by Team CodeCrafters for the Microsoft Hackathon (Hyderabad, Sept 2026)**
+**Built by Team CodeCrafters (Hyderabad, Sept 2026)**
 
 An enterprise-grade, AI-powered RAG (Retrieval-Augmented Generation) agent that prepares executives for meetings by recalling past interactions, commitments, budget constraints, and communication preferences. 
 
